@@ -1,0 +1,6 @@
+button {
+  position: absolute;
+  height: 50px;
+  width: 200px;
+  transition: 500ms ease-in;
+}
